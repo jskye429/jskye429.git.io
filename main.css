@@ -1,0 +1,53 @@
+.body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh
+}
+/*header css */
+
+.header,.footer {
+background-color: lightskyblue;
+color: white;
+display: flex;
+justify-content: space-between;
+padding: 24px; 
+}
+
+.liz-border { border-bottom: 10px solid lightseagreen }
+
+/*content css */
+
+.porfolio-image {
+    float: left;
+    height: 200px;
+    padding-right: 24px;
+    width: 100px;
+}
+
+.section-content { max-width: 800px;
+}
+
+
+.section-main {display: flex;
+    flex-grow: 1;
+    justify-content: center;
+}
+
+.image-wrapper {
+
+
+}
+
+.image {
+
+
+}
+
+.image-label {
+
+}
+
+.toolbar {
+
+    
+}
